@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+        <device id="pixel_3" />
+        <device id="pixel_2" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="444e2afa-7170-4b4c-b566-565e91679b34" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Galaxy_Nexus_API_24" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/assets/upute_kviz.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/kviz/Pitanje.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/Kviz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/KvizKraj.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/KvizOdabir.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/SplashScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="51" column="54" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>neko</find>
+      <find>osobe</find>
+      <find>uspo</find>
+      <find>mp3</find>
+      <find>povećati</find>
+      <find>sa</find>
+      <find>poša</find>
+      <find>šta</find>
+    </findStrings>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="PRESERVE_MERGES" value="true" />
+    <option name="ONTO" value="refs/heads/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="izmjene_veljaca" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/MA_UputeKviz.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/Odgovor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/Pitanje.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/Savjeti_Djeca.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/Savjeti_Odrasli.java" />
+        <option value="$PROJECT_DIR$/src/main/assets/savjeti.html" />
+        <option value="$PROJECT_DIR$/src/main/assets/prepoznajmo.html" />
+        <option value="$PROJECT_DIR$/src/main/assets/pomoc.html" />
+        <option value="$PROJECT_DIR$/src/main/res/anim/splash_animation.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_ma__savjeti.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_ma__kviz.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_kviz.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/savjeti_odrasli.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/toolbar.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/SplashScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/KvizKraj.java" />
+        <option value="$PROJECT_DIR$/src/main/assets/sto_je_nasilje.html" />
+        <option value="$PROJECT_DIR$/src/main/assets/znakovi.html" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/StarijiNastava.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/RazrednaNastava.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/Savjeti.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/MainActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/ImageAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/MA_Savjeti.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/ImageAdapter2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/ImageAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/test.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/TestAdapter.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/SliderAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/SliderItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/Savjet.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/slide_item_container.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/savjet.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/MainActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_ma__upute_kviz.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/MA_Kviz.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/MA_Savjeti.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/MA_UputeKviz.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_kviz_kraj.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/MA_Sadrzaj.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/KvizOdabir.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/SadrzajOdabir.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/viewpager2/SliderItem.java" />
+        <option value="$PROJECT_DIR$/src/main/assets/upute_kviz.html" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/SplashScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_splash_screen.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_savjeti__odabir.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="319" />
+    <option name="y" value="55" />
+    <option name="width" value="974" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="app" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\borna\Documents\GitHub\Prepoznajnoenasilje\app" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="app" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\borna\Documents\GitHub\Prepoznajnoenasilje\app" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="app" type="58d84e3e:PackageViewProjectNode" />
+              <item name="app" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Galaxy_Nexus_API_24" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-02-12T11:47:30.159Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GlagodedijaAndroid" />
+    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\borna\Documents\GitHub\Prepoznajnoenasilje\app\assets" />
+      <recent name="C:\Users\borna\Documents\GitHub\Prepoznajnoenasilje\app\src\main\res\assets" />
+      <recent name="C:\Users\borna\Documents\GitHub\Prepoznajnoenasilje\app\src\main\res\drawable" />
+      <recent name="C:\Users\borna\Documents\GitHub\Prepoznajnoenasilje\app\src\main\res\layout" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="hr.cnzd.prepoznajmoenasilje.kviz" />
+      <recent name="hr.cnzd.prepoznajmoenasilje" />
+      <recent name="hr.cnzd.prepoznajmoenasilje.viewpager2" />
+      <recent name="kviz" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="hr.jakopec.prepoznajmoenasilje" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hr.jakopec.prepoznajmoenasilje" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\borna\Documents\GitHub\Prepoznajnoenasilje\app\src\main\res\drawable-v24" />
+      <recent name="C:\Users\borna\Documents\GitHub\Prepoznajnoenasilje\app\src\main\assets\images" />
+      <recent name="C:\Users\borna\Documents\GitHub\Prepoznajnoenasilje\app\src\main" />
+      <recent name="C:\Users\borna\Documents\GitHub\Prepoznajnoenasilje\app\src\main\res\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="444e2afa-7170-4b4c-b566-565e91679b34" name="Default Changelist" comment="" />
+      <created>1575217166626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575217166626</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Splash fadein">
+      <created>1575408784358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575408784358</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1 activity za sve buttone (osim kviza), sadrzaj">
+      <created>1575821775575</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575821775575</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Kviz layout">
+      <created>1576020372796</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576020372796</updated>
+    </task>
+    <task id="LOCAL-00004" summary="design, layout">
+      <created>1576459060012</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576459060012</updated>
+    </task>
+    <task id="LOCAL-00005" summary="maknuo kviz button, dodao trebamail@com placeholder">
+      <created>1576506472496</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576506472497</updated>
+    </task>
+    <task id="LOCAL-00006" summary="nove ikone">
+      <created>1578524199908</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578524199908</updated>
+    </task>
+    <task id="LOCAL-00007" summary="nove ikone u splash i main_activity">
+      <created>1578527441405</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578527441405</updated>
+    </task>
+    <task id="LOCAL-00008" summary="izmjena kod ikona">
+      <created>1578747586682</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1578747586682</updated>
+    </task>
+    <task id="LOCAL-00009" summary="izmjena ikona (tekst ispod)">
+      <created>1578782640693</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578782640693</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ikona u actionbar">
+      <created>1579881582374</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1579881582374</updated>
+    </task>
+    <task id="LOCAL-00011" summary="lokalni html">
+      <created>1580060615219</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1580060615220</updated>
+    </task>
+    <task id="LOCAL-00012" summary="image slideri">
+      <created>1580075814618</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1580075814618</updated>
+    </task>
+    <task id="LOCAL-00013" summary="image slideri">
+      <created>1580075848555</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1580075848555</updated>
+    </task>
+    <task id="LOCAL-00014" summary="slike">
+      <created>1580125377017</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1580125377017</updated>
+    </task>
+    <task id="LOCAL-00015" summary="znakovi nasilja">
+      <created>1580126438539</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1580126438539</updated>
+    </task>
+    <task id="LOCAL-00016" summary="kviz (osnovna skola)">
+      <created>1580131244904</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1580131244904</updated>
+    </task>
+    <task id="LOCAL-00017" summary="kviz (srednja skola)">
+      <created>1580138086240</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1580138086240</updated>
+    </task>
+    <task id="LOCAL-00018" summary="ciscenje koda">
+      <created>1580337313078</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1580337313078</updated>
+    </task>
+    <task id="LOCAL-00019" summary="ciscenje koda">
+      <created>1580340406980</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1580340406980</updated>
+    </task>
+    <task id="LOCAL-00020" summary="gramatika">
+      <created>1580342044732</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1580342044732</updated>
+    </task>
+    <task id="LOCAL-00021" summary="izmjena image slidera, upute_kviz.html">
+      <created>1580844466624</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1580844466624</updated>
+    </task>
+    <task id="LOCAL-00022" summary="reorganizacija klasa i layouta">
+      <created>1580906978257</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1580906978257</updated>
+    </task>
+    <task id="LOCAL-00023" summary="savjeti - preoblikovanje slika">
+      <created>1580908910045</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1580908910045</updated>
+    </task>
+    <task id="LOCAL-00024" summary="logotipi u splash, obvezan portrait mode">
+      <created>1581299943223</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1581299943223</updated>
+    </task>
+    <task id="LOCAL-00025" summary="malo povećao slova">
+      <created>1581300667694</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1581300667694</updated>
+    </task>
+    <task id="LOCAL-00026" summary="update">
+      <created>1581300751311</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1581300751311</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="319" y="55" width="974" height="1087" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3402626" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" weight="0.32995737" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.48560768" weight="0.32398754" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.49093816" weight="0.32398754" />
+      <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49671772" weight="0.32809225" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49562362" weight="0.32914045" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.43763676" side_tool="true" visible="true" weight="0.24004193" />
+      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.48987207" weight="0.32917964" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.56236327" visible="true" weight="0.24004193" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="9" sideWeight="0.4989339" weight="0.32917964" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.077292114" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Splash fadein" />
+    <MESSAGE value="1 activity za sve buttone (osim kviza), sadrzaj" />
+    <MESSAGE value="Kviz layout" />
+    <MESSAGE value="design, layout" />
+    <MESSAGE value="maknuo kviz button, dodao trebamail@com placeholder" />
+    <MESSAGE value="nove ikone" />
+    <MESSAGE value="nove ikone u splash i main_activity" />
+    <MESSAGE value="izmjena kod ikona" />
+    <MESSAGE value="izmjena ikona (tekst ispod)" />
+    <MESSAGE value="ikona u actionbar" />
+    <MESSAGE value="lokalni html" />
+    <MESSAGE value="image slideri" />
+    <MESSAGE value="slike" />
+    <MESSAGE value="znakovi nasilja" />
+    <MESSAGE value="kviz (osnovna skola)" />
+    <MESSAGE value="kviz (srednja skola)" />
+    <MESSAGE value="ciscenje koda" />
+    <MESSAGE value="gramatika" />
+    <MESSAGE value="izmjena image slidera, upute_kviz.html" />
+    <MESSAGE value="reorganizacija klasa i layouta" />
+    <MESSAGE value="savjeti - preoblikovanje slika" />
+    <MESSAGE value="logotipi u splash, obvezan portrait mode" />
+    <MESSAGE value="malo povećao slova" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/RazrednaNastava.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/StarijiNastava.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0/db045f92188b9d247d5f556866f8861ab68528f0/viewpager-1.0.0-sources.jar!/androidx/viewpager/widget/PagerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="80" column="22" selection-start-line="80" selection-start-column="22" selection-end-line="80" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/MA_Sadrzaj.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/ImageAdapter2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/MainActivity.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/Savjeti_Djeca.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/Savjeti_Odrasli.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/MA_Savjeti.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/Savjeti.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/Savjeti_Djeca.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/ImageAdapter2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/TestAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/test.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/ImageAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/Savjet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/slide_item_container.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_kviz.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/KvizUpute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/SadrzajOdabir.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="110" column="8" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/SavjetiOdabir.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/Sadrzaj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_kviz__odabir.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_sadrzaj.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/viewpager2/SliderItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_sadrzaj__odabir.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_kviz__upute.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_savjet.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/viewpager2/SliderAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/prepoznajmo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/sto_je_nasilje.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/toolbar.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/ImageAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/jakopec/prepoznajmoenasilje/KvizKraj.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_kviz_kraj.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/pomoc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_savjeti__odabir.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_splash_screen.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/kviz/PitanjaStariji.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/kviz/PitanjaMladi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/kviz/Odgovor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assets/upute_kviz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/Kviz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/KvizKraj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/KvizOdabir.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/SplashScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="54" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/cnzd/prepoznajmoenasilje/kviz/Pitanje.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hr.cnzd.prepoznajmoenasilje">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Prepoznajmo e-nasilje"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+
+
+        <activity
+            android:name="hr.cnzd.prepoznajmoenasilje.SplashScreen"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="hr.cnzd.prepoznajmoenasilje.SadrzajOdabir"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="hr.cnzd.prepoznajmoenasilje.KvizUpute"
+            android:label="Kviz"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name="hr.cnzd.prepoznajmoenasilje.Kviz"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name="hr.cnzd.prepoznajmoenasilje.KvizOdabir"
+            android:label="Kviz"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name="hr.cnzd.prepoznajmoenasilje.KvizKraj"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name="hr.cnzd.prepoznajmoenasilje.Sadrzaj"
+            android:label="Prepoznajmo e-nasilje"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name="hr.cnzd.prepoznajmoenasilje.SavjetiOdabir"
+            android:label="Savjeti za djecu i odrasle"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name="hr.cnzd.prepoznajmoenasilje.Savjet"
+            android:label="Savjeti za djecu i odrasle"
+            android:screenOrientation="portrait"/>
+    </application>
+
+</manifest>

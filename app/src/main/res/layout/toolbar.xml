@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="?attr/colorPrimary"
+    app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/img_zemlja"
+            style="@style/Widget.AppCompat.ActionButton"
+            android:layout_width="?attr/actionBarSize"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_gravity="start|center_vertical"
+            android:layout_marginRight="?attr/actionBarSize"
+            android:scaleType="centerCrop"
+            android:src="@drawable/zemlja" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="60sp"
+            android:gravity="center_vertical"
+            android:text="Prepoznajmo e-nasilje"
+            android:textColor="#fff"
+            app:autoSizeMaxTextSize="28dp"
+            app:autoSizeTextType="uniform" />
+    </FrameLayout>
+
+</androidx.appcompat.widget.Toolbar>
+
